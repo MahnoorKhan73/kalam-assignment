@@ -1,0 +1,63 @@
+* {
+  background-color: aquamarine;
+  /* background-image: url(./images/kalam.jpg);
+  background-repeat:unset; */
+}
+.container {
+  margin-top: 200px;
+}
+.h1 {
+  text-align: center;
+  text-shadow: cadetblue;
+}
+.h1_1 {
+  text-shadow: 5px 4px 0 rgb(233, 237, 236);
+}
+
+.img {
+  margin: 0 auto;
+  height: 200px;
+  width: 900px;
+  border: 1px solid black;
+}
+.img > p {
+  text-align: left;
+}
+.para {
+  text-align: center;
+}
+.sec {
+  text-align: center;
+  width: 900px;
+  height: 800px;
+  margin: 0 auto;
+  box-shadow: rgba(1, 18, 255, 0.1) 0px 8px 24px,
+    rgba(1, 18, 255, 0.1) 0px 16px 56px, rgba(1, 18, 255, 0.1) 0px 24px 80px;
+}
+.sec > h1 {
+  padding-top: 30px;
+  text-align: center;
+}
+.sec_2 {
+  text-shadow: 5px 4px 0 rgb(233, 237, 236);
+}
+.sec > p {
+  padding: 10px 10px 10px 10px;
+  text-align: left;
+}
+.last {
+  width: 10px auto;
+  text-align: center;
+}
+/* .container{
+    width: 500px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: aqua;
+} */
+
+/* .border{
+    border: 4px solid red;
+    height: 50px;
+    width: 500px;
+} */
